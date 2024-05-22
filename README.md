@@ -1,6 +1,7 @@
 # ESP32_Wifi_Serial
 基于ESP32实现的串口服务器，启动于APSTA模式，同时包括一个设置页面，可以对ESP32相关参数进行设置。使用环境为arduino，esp32_dev_module。
 
+相关介绍可见博客：https://xiangxu05.github.io//2024/05/22/ESP32-Wifi-Serial-webServer/
 ## 演示
 
 ![image-20240522103400350](README.assets/image-20240522103400350.png)
@@ -19,4 +20,4 @@
 
 <center>清空输入框可以看见提示信息</center>
 
-相关介绍可见博客：
+
